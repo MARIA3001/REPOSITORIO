@@ -1,8 +1,8 @@
 enable
 configure terminal
 hostname RT-01
-banner mtdo "ACESSO APENAS PARA PESSOAS AUTORIZADAS"
-username juliocesar privilege 15 secret MARIA*user
+banner modt "ACESSO APENAS PARA PESSOAS AUTORIZADAS"
+username mariaeduarda privilege 15 secret MARIA*user
 enable secret MARIA*enable
 line console 0
 password MARIA*console
