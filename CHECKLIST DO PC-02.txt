@@ -1,4 +1,0 @@
-IP:172.16.0.10
-MÁSCARA: 255.255.0.0
-GATEWAY: 172.16.0.1
-mudar nome do pc na topologia
