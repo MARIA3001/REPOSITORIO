@@ -2,7 +2,7 @@ script SW-01
 enable
 configure terminal
 hostname SW-01
-banner mtdo "ACESSO APENAS PARA PESSOAS  AUTORIZADAS"
+banner motd "ACESSO APENAS PARA PESSOAS  AUTORIZADAS"
 username mariaeduarda privilege 15 secret MARIA*user
 enable secret MARIA*enable
 line console 0
