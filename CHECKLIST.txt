@@ -62,5 +62,6 @@ IP da REDE 1 e REDE 2
 IP gig 0/0 192.168.0.254 255.255.255.0
 IP gig 0/1 172.16.0.254 255.255.0.0
 Ativar a interface [no shutdown]
-© 2020 GitHub, Inc.
+Salvar(wr)
+
 
