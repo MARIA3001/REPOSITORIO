@@ -1,4 +1,12 @@
+PC-01
 IP:192.168.0.10
 MÁSCARA: 255.255.255.0
 GATEWAY: 192.168.0.1
 mudar nome do pc na topologia
+PC-02
+
+
+
+SW-01
+SW-02
+RT-01 
