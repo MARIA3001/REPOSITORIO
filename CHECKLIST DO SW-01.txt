@@ -1,0 +1,15 @@
+Hostname [hostname RT-01]
+Banner (banner motd "ACESSO APENAS PARA PESSOAS AUTORIZADAS")
+Criar usuário local (username mariaeduarda pivilege 15 secret batata*0)
+Senha da Enable (enable secret MARIA*enable)
+Senha da Console (password MARIA*console)
+Domínio (ip domain-name 1rede-local)
+Chave de Criptografia (crypto key generate rsa general-key modulus 1024)
+Senha da VTY (password MARIA*vty)
+Ativar login local na Console (login local)
+Ativar login local na VTY (login local)
+Encriptar as senhas (service password-encryption)
+IP da REDE 1 e REDE 2
+IP gig 0/0 192.168.0.254 255.255.255.0
+IP gig 0/1 172.16.0.254 255.255.0.0
+Ativar a interface [no shutdown]
